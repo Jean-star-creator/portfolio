@@ -1,4 +1,4 @@
-# Portfólio - Bruno Germano Gonçalves
+# Portfólio - Jean Ibsen Pereira
 
 <!-- ![Banner/Screenshot do Portfólio](src/imagens/foto-perfil-circular.png) -->
 
@@ -7,13 +7,14 @@
      style="width: 200px; height: 200px; border-radius: 50%; object-fit: cover;">
 
 
-[![Live Demo](https://img.shields.io/badge/Ver%20Online-Live-brightgreen)](https://brunogermano.github.io/portfolio/) 
+[![Live Demo](https://img.shields.io/badge/Ver%20Online-Live-brightgreen)](https://portfolio-rho-gray-80.vercel.app/) 
 <!-- Substitua pelo link real do seu site publicado -->
 <!--
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Bruno%20G.%20Gonçalves-blue)](https://linkedin.com/in/bruno-germano-1a130a137) 
 -->
 <a href="https://linkedin.com/in/jean-ibsen-pereira-445298295" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-Bruno%20G.%20Gonçalves-blue" alt="LinkedIn">
+  <img src="https://img.shields.io/badge/LinkedIn-Jean%20Ibsen%20Pereira-blue" alt="LinkedIn">
+<!--   <img src="https://img.shields.io/badge/LinkedIn-Bruno%20G.%20Gonçalves-blue" alt="LinkedIn"> -->
 </a>
 
 ## 📍 Sobre
@@ -70,7 +71,7 @@ Se você quiser dar uma olhada no código em ação ou talvez se inspirar, siga 
 
 ## 👤 Autor
 
-*   **Bruno Germano Gonçalves**
+*   **Jean Ibsen Pereira**
 *   **GitHub:** [@Jean-star-creator](https://github.com/Jean-star-creator) <!-- Substitua pelo seu usuário -->
 *   **LinkedIn:** [JEAN IBSEN PEREIRA](https://www.linkedin.com/in/jean-ibsen-pereira-445298295/)
 
