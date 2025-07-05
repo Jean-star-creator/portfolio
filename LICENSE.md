@@ -1,6 +1,6 @@
 IT License
 
-Copyright (c) [2025] [Bruno Germano Gonçalves]
+Copyright (c) [2025] [Jean Ibsen Pereira]
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
